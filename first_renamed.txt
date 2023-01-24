@@ -1,0 +1,3 @@
+this is v1 of the project
+i want this file to move in commit 2
+changed this file
